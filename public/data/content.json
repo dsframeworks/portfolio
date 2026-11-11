@@ -1,0 +1,346 @@
+{
+  "settings": {
+    "email": "buisness.fusionflix@gmail.com",
+    "instagram_url": "https://www.instagram.com/fusiononinsta",
+    "instagram_handle": "@fusiononinsta",
+    "youtube_url": "https://www.youtube.com/@fusiononyoutube",
+    "youtube_label": "@fusiononyoutube",
+    "portrait_url": "https://raw.githubusercontent.com/dsframeworks/iamhereshortfilm/main/public/media/Monochrome%20Portrait%20with%20Glasses.jpg",
+    "resume_url": "resume.pdf"
+  },
+  "about": [
+    {
+      "id": 1,
+      "label": "Profile",
+      "body": "I'm Dhruv Sharma, an independent filmmaker based in Indore, India, working towards a career in film direction. My interest sits where a story takes its shape: direction, visual storytelling, cinematography and production.",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "label": "Journey",
+      "body": "My way into filmmaking has been through making films. Each independent project is a chance to carry a story from the page to the frame, and to understand a little more of what a film asks of the people making it.",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "label": "Education",
+      "body": "My formal education is up to Higher Secondary (Class 12). I am a self-taught filmmaker who has independently learned filmmaking and direction through hands-on experience, practical experimentation, and continuous creative exploration.",
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "label": "Independent Work",
+      "body": "Alongside that training I make independent short films and personal projects, among them the short film I AM HERE.",
+      "sort_order": 4
+    },
+    {
+      "id": 5,
+      "label": "Philosophy",
+      "body": "Stories begin long before the camera rolls. A film is decided in its preparation: the script breakdown, the shot list, the storyboard, the blocking. By the time we shoot, every frame should already have a reason to exist.",
+      "sort_order": 5
+    },
+    {
+      "id": 6,
+      "label": "Aspirations",
+      "body": "I am working towards becoming a film director. Right now I want to learn inside the direction department, on independent films and alongside experienced directors and production teams.",
+      "sort_order": 6
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "slug": "i-am-here",
+      "title": "I'm Here",
+      "kind": "film",
+      "format": "Personal Project",
+      "genre": "Drama",
+      "year": "2026",
+      "role": "Writer, Director & Actor",
+      "synopsis": "I'M HERE is a short film about presence - about the quiet, aching need to be seen and to matter to someone. Told through intimate, unhurried images, it follows a single soul searching for connection in an indifferent world, and the small, luminous moment in which that connection is finally found.",
+      "credits": [
+        {
+          "role": "Director & Writer",
+          "name": "Dhruv Sharma"
+        },
+        {
+          "role": "Actor (Reyansh)",
+          "name": "Dhruv Sharma"
+        },
+        {
+          "role": "Actor (ASL Teacher)",
+          "name": "Anshika Thapa"
+        },
+        {
+          "role": "Director of Photography",
+          "name": "Aditya Rajput"
+        },
+        {
+          "role": "Director of Photography",
+          "name": "Jayesh Soni"
+        }
+      ],
+      "poster_url": "https://raw.githubusercontent.com/dsframeworks/iamhereshortfilm/main/public/media/I'm%20Here%20-%20Thumbnail.jpg",
+      "stills": [
+        {
+          "url": "/images/Screenshot 2026-10-28 110413.png",
+          "caption": "Still 1"
+        },
+        {
+          "url": "/images/Screenshot 2026-10-28 110437.png",
+          "caption": "Still 2"
+        },
+        {
+          "url": "/images/Screenshot 2026-10-28 110451.png",
+          "caption": "Still 3"
+        },
+        {
+          "url": "/images/Screenshot 2026-10-28 110511.png",
+          "caption": "Still 4"
+        },
+        {
+          "url": "/images/Screenshot 2026-10-28 110524.png",
+          "caption": "Still 5"
+        },
+        {
+          "url": "/images/Screenshot 2026-10-28 110603.png",
+          "caption": "Still 6"
+        },
+        {
+          "url": "/images/Screenshot 2026-10-28 110634.png",
+          "caption": "Still 7"
+        },
+        {
+          "url": "/images/Screenshot 2026-10-28 110645.png",
+          "caption": "Still 8"
+        },
+        {
+          "url": "/images/Screenshot 2026-10-28 110715.png",
+          "caption": "Still 9"
+        },
+        {
+          "url": "/images/Screenshot 2026-10-28 110728.png",
+          "caption": "Still 10"
+        },
+        {
+          "url": "/images/Screenshot 2026-10-28 110912.png",
+          "caption": "Still 11"
+        }
+      ],
+      "bts": [],
+      "watch_url": "https://www.youtube.com/watch?v=3Uf8pDj3L38",
+      "trailer_url": "https://www.youtube.com/watch?v=SQe3UqAiS8M",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "slug": "independent-short-films",
+      "title": "Independent Short Films",
+      "kind": "collection",
+      "format": "Short Films",
+      "genre": null,
+      "year": null,
+      "role": null,
+      "responsibilities": [],
+      "synopsis": "Coming soon.",
+      "credits": [],
+      "poster_url": null,
+      "stills": [],
+      "bts": [],
+      "watch_url": null,
+      "trailer_url": null,
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "slug": "personal-projects",
+      "title": "Personal Projects",
+      "kind": "collection",
+      "format": "Personal Work",
+      "genre": null,
+      "year": null,
+      "role": null,
+      "responsibilities": [],
+      "synopsis": "I'm Here — Short Film (2026)",
+      "credits": [],
+      "poster_url": null,
+      "stills": [],
+      "bts": [],
+      "watch_url": null,
+      "trailer_url": null,
+      "sort_order": 3
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Script Breakdown",
+      "phase": "Pre-production",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "name": "Shot Listing",
+      "phase": "Pre-production",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "name": "Storyboarding",
+      "phase": "Pre-production",
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "name": "Scene Blocking",
+      "phase": "Production",
+      "sort_order": 4
+    },
+    {
+      "id": 5,
+      "name": "Location Scouting",
+      "phase": "Pre-production",
+      "sort_order": 5
+    },
+    {
+      "id": 6,
+      "name": "Pre-production Planning",
+      "phase": "Pre-production",
+      "sort_order": 6
+    },
+    {
+      "id": 7,
+      "name": "On-set Coordination",
+      "phase": "Production",
+      "sort_order": 7
+    },
+    {
+      "id": 8,
+      "name": "Cinematography",
+      "phase": "Production",
+      "sort_order": 8
+    },
+    {
+      "id": 9,
+      "name": "Video Editing",
+      "phase": "Post-production",
+      "sort_order": 9
+    },
+    {
+      "id": 10,
+      "name": "Visual Storytelling",
+      "phase": "Every stage",
+      "sort_order": 10
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": 1,
+      "title": "How Aditya Dhar Makes War Feel REAL",
+      "youtube_id": "B21NkyQZhnE",
+      "thumbnail_url": "https://i.ytimg.com/vi/B21NkyQZhnE/hqdefault.jpg",
+      "topic": "Directing & Realism",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "title": "How Rajamouli Creates Magic | The Secret Behind His VFX",
+      "youtube_id": "wyQ68WP4XJc",
+      "thumbnail_url": "https://i.ytimg.com/vi/wyQ68WP4XJc/hqdefault.jpg",
+      "topic": "VFX & Scale",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "title": "The Anatomy of a Screenplay: How Movies Are Really Written",
+      "youtube_id": "sh8G8iqzwgQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/sh8G8iqzwgQ/hqdefault.jpg",
+      "topic": "Screenwriting",
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "title": "Why Christopher Nolan Chose THE ODYSSEY?",
+      "youtube_id": "s0cJkUGYkz4",
+      "thumbnail_url": "https://i.ytimg.com/vi/s0cJkUGYkz4/hqdefault.jpg",
+      "topic": "Narrative Analysis",
+      "sort_order": 4
+    },
+    {
+      "id": 5,
+      "title": "Take Your Photography to the Next Level with These 42 Composition Secrets",
+      "youtube_id": "1rqnefW-2gY",
+      "thumbnail_url": "https://i.ytimg.com/vi/1rqnefW-2gY/hqdefault.jpg",
+      "topic": "Cinematography & Framing",
+      "sort_order": 5
+    },
+    {
+      "id": 6,
+      "title": "How Every Films are Made — The Complete Process",
+      "youtube_id": "VQBEUUNgj-M",
+      "thumbnail_url": "https://i.ytimg.com/vi/VQBEUUNgj-M/hqdefault.jpg",
+      "topic": "Production Pipeline",
+      "sort_order": 6
+    },
+    {
+      "id": 7,
+      "title": "Director vs Editor: Who Really Makes the Movie?",
+      "youtube_id": "-RIpt-ItI5o",
+      "thumbnail_url": "https://i.ytimg.com/vi/-RIpt-ItI5o/hqdefault.jpg",
+      "topic": "Editorial Craft",
+      "sort_order": 7
+    },
+    {
+      "id": 8,
+      "title": "Why You Can't Look Away: The Psychology of Viral Movie Trailers",
+      "youtube_id": "iCFw7ST_vOI",
+      "thumbnail_url": "https://i.ytimg.com/vi/iCFw7ST_vOI/hqdefault.jpg",
+      "topic": "Trailer Psychology",
+      "sort_order": 8
+    },
+    {
+      "id": 9,
+      "title": "Why Hanuman Ansh Surpassed Big-Budget Films | The Real Reason",
+      "youtube_id": "acS-Bw_kLm0",
+      "thumbnail_url": "https://i.ytimg.com/vi/acS-Bw_kLm0/hqdefault.jpg",
+      "topic": "Indie Filmmaking",
+      "sort_order": 9
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "kind": "education",
+      "title": "Film Technology & TV Production",
+      "organisation": null,
+      "period": null,
+      "description": null,
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "kind": "project",
+      "title": "Independent Filmmaking",
+      "organisation": null,
+      "period": null,
+      "description": "Independent short films and personal filmmaking projects, including the short film I AM HERE.",
+      "sort_order": 1
+    }
+  ],
+  "tools": [
+    {
+      "id": 1,
+      "name": "DaVinci Resolve",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "name": "Adobe Premiere Pro",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "name": "Adobe After Effects",
+      "sort_order": 3
+    }
+  ]
+}
